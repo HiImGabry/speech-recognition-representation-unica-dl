@@ -1,4 +1,4 @@
-# speech-recognition-representation-unica-dl
+# Speech Recognition and Representation - Deep Learning Project UNICA 2023/2024
 This project has been done for the following university exam:
 https://unica.coursecatalogue.cineca.it/insegnamenti/2023/21411/2021/9999/11022?coorte=2022&schemaid=4601
 
