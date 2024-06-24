@@ -40,12 +40,12 @@ Se si utilizza la versione **2.10.1 di tensorflow** porre **massima attenzione**
 Per evitare di porre modifiche al codice è consigliato posizionare i dataset utilizzati nella cartella direttamente precedente al progetto, questo perché ogni notebook elabora il dataset partendo dalla directory "../".
 
 I dataset utilizzati sono i seguenti:
-- [original_dataset]()
+- [original_dataset](https://drive.google.com/uc?export=download&id=1_sN7ZaxH6dLv6r-mXJ91pnSez4tQu2sW)
 - [reduced_dataset](https://drive.google.com/uc?export=download&id=1EwzwGoP6eYHavKA2uEJwg-60j18H6DSb)
 - [noise_dataset](https://drive.google.com/uc?export=download&id=16QikfTg4wqvZPj_zyF0tPr_ELuVsK2vQ)
 
 ## Best models
-Il progetto è stato strutturato in modo tale da salvare la migliore versione di ogni modello. Essendo la loro grandezza totale eccessiva, è possibile [scaricarli separatamente]().
+Il progetto è stato strutturato in modo tale da salvare la migliore versione di ogni modello. Essendo la loro grandezza totale eccessiva, è possibile [scaricarli separatamente](https://drive.google.com/uc?export=download&id=1AJguLAGDD9I2Bh7so4wno6iMJ2sVWBmC).
 E' consigliato di sostituire l'intera cartella bestmodels scaricata con quella già presente nel progetto (vuota).
 
 ## Come leggere i notebook
