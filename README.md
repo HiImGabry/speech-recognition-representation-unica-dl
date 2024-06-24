@@ -1,6 +1,6 @@
 # DeepSpeech
 
-Questo progetto è stato creato per il conseguimento dell'esame di Deep Learning del seguente [corso universitario](www.google.com).
+Questo progetto è stato creato per il conseguimento dell'esame di Deep Learning del seguente [corso universitario](https://unica.coursecatalogue.cineca.it/insegnamenti/2023/21411/2021/9999/11022?coorte=2022&schemaid=4601).
 
 ## Installazione ambiente
 Per lo sviluppo del progetto è stato utilizzato il software [anaconda](https://www.anaconda.com/download), con la quale è possibile creare ambienti differenti. E' consigliato l'utilizzo della versione 3.10.14 di python.
@@ -38,6 +38,15 @@ Se si utilizza la versione **2.10.1 di tensorflow** porre **massima attenzione**
 
 ## Posizionamento dataset
 Per evitare di porre modifiche al codice è consigliato posizionare i dataset utilizzati nella cartella direttamente precedente al progetto, questo perché ogni notebook elabora il dataset partendo dalla directory "../".
+
+I dataset utilizzati sono i seguenti:
+- [original_dataset]()
+- [reduced_dataset](https://drive.google.com/uc?export=download&id=1EwzwGoP6eYHavKA2uEJwg-60j18H6DSb)
+- [noise_dataset](https://drive.google.com/uc?export=download&id=16QikfTg4wqvZPj_zyF0tPr_ELuVsK2vQ)
+
+## Best models
+Il progetto è stato strutturato in modo tale da salvare la migliore versione di ogni modello. Essendo la loro grandezza totale eccessiva, è possibile [scaricarli separatamente]().
+E' consigliato di sostituire l'intera cartella bestmodels scaricata con quella già presente nel progetto (vuota).
 
 ## Come leggere i notebook
 E' consigliata la lettura partendo dal notebook **Welcome**, e procedere secondo l'ordine da esso imposto.
